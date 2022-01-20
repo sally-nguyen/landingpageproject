@@ -23,3 +23,19 @@ a {
     text-decoration: none;
     color: #E5e7eb;
 }
+
+.header-hero {
+    background-color: #1f2937;
+    color: #E5e7eb;
+    font-size: 18px;
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.media-content {
+    display: flex;
+}
