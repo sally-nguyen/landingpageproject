@@ -11,6 +11,8 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: #1f2937;
+    padding: 60px;
+    align-items: baseline;
 }
 
 ul {
@@ -38,4 +40,6 @@ h1 {
 
 .media-content {
     display: flex;
+    padding: 60px;
+    justify-content: space-between;
 }
