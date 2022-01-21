@@ -34,10 +34,14 @@ a {
     font-size: 18px;
 }
 
-h1 {
-    color: #f9faf8;
+.hero-main {
     font-size: 48px;
     font-weight: 900;
+}
+
+.hero-main-subtext {
+    color: #f9faf8;
+    font-size: 18px;
 }
 
 .media-content {
@@ -54,6 +58,7 @@ h1 {
     font-size: 20px;
     border-radius: 15px;
     padding: 5px 25px;
+    border: none;
 }
 
 /*random info section*/
@@ -63,15 +68,14 @@ h2,
     display: flex;
     justify-content: center;
     padding-top: 30px;
+    color: #1f2937;
 }
 
-h2{
+h2 {
     font-size: 36px;
-    color: #1f2937;
 }
 .container {
     gap: 10px;
-    padding-top: 30px;
     padding-bottom: 100px;
     text-align: center;
 }
@@ -127,6 +131,7 @@ h2{
 
 .c2a-border {
     background-color: #3882F6;
+    color:#f9faf8;
     border-radius: 10px;
     padding: 30px;
     width: 800px;
@@ -137,6 +142,4 @@ h2{
 .call {
     font-size: 20px;
     font-weight: 750;
-    padding: 0;
-    margin: auto;
 }
