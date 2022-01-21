@@ -89,3 +89,10 @@ h2{
 .card4 {
     max-width: 150px;
 }
+
+/*quote section*/
+
+.quote {
+    max-width: 500px;
+    margin:auto;
+}
