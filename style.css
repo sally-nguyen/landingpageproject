@@ -59,12 +59,12 @@ h1 {
 
 /*random info section*/
 
-h2 {
+h2,
+.container {
     display: flex;
     justify-content: center;
 }
 
-.card1 {
-    display: flex;
-    justify-content: center;
+.container {
+    flex-wrap: wrap;
 }
