@@ -93,6 +93,12 @@ h2{
 /*quote section*/
 
 .quote {
-    max-width: 500px;
     margin:auto;
+    background-color: #E5e7eb;
+}
+
+.quote1 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
 }
