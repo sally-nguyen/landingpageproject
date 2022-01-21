@@ -128,20 +128,17 @@ h2 {
     justify-content: center;
     padding: 50px;
     color:#f9faf8;
-    
-}
-
-.c2a-border {
     background-color: #3882F6;
-    color:#f9faf8;
     border-radius: 10px;
     padding: 30px;
     width: 800px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .call {
     font-size: 20px;
     font-weight: 750;
+}
+
+.c2a-button {
+    display: flex;
 }
