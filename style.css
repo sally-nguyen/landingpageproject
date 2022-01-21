@@ -20,7 +20,7 @@ header {
 ul {
     display: flex;
     list-style-type: none;
-    gap: 10px;
+    gap: 20px;
 }
 
 a {
@@ -136,7 +136,7 @@ h2 {
 }
 
 .c2a {
-    padding: 30px;
+    padding: 100px;
 }
 .call {
     font-size: 20px;
@@ -161,4 +161,5 @@ h2 {
     justify-content: center;
     background-color: #1f2937;
     color:#f9faf8;
+    padding: 30px;
 }
