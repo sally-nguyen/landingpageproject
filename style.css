@@ -37,7 +37,7 @@ a {
 h1 {
     color: #f9faf8;
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 900;
 }
 
 .media-content {
@@ -93,12 +93,19 @@ h2{
 /*quote section*/
 
 .quote {
-    margin:auto;
     background-color: #E5e7eb;
+    padding: 30px 150px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .quote1 {
     font-size: 36px;
     font-style: italic;
+    font-weight: lighter;
     color: #1f2937;
+    max-width: 750px;
+    margin:auto;
 }
+
+
