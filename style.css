@@ -131,13 +131,12 @@ h2{
     padding: 30px;
     width: 800px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .call {
     font-size: 20px;
     font-weight: 750;
     padding: 0;
-    margin: 0;
+    margin: auto;
 }
-
