@@ -2,6 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/*header and links*/
+
 header {
     color: #f9faf8;
     font-weight:700;
@@ -32,6 +34,8 @@ a {
     font-size: 18px;
 }
 
+/*HERO section*/
+
 h1 {
     color: #f9faf8;
     font-size: 48px;
@@ -51,4 +55,16 @@ h1 {
     font-size: 20px;
     border-radius: 15px;
     padding: 5px 25px;
+}
+
+/*random info section*/
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.card1 {
+    display: flex;
+    justify-content: center;
 }
