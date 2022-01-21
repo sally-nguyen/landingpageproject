@@ -57,8 +57,8 @@ a {
     color: #f9faf8;
     font-weight: 700;
     font-size: 20px;
-    border-radius: 15px;
-    padding: 5px 25px;
+    border-radius: 7px;
+    padding: 2px 30px 2px 30px;
     border: none;
     margin-top:10px;
 }
@@ -123,17 +123,21 @@ h2 {
 }
 
 /*call to action*/
-.c2a {
+.c2a-box {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 50px;
     color:#f9faf8;
     background-color: #3882F6;
     border-radius: 10px;
     padding: 30px;
     width: 800px;
+    margin:auto;
 }
 
+.c2a {
+    padding: 30px;
+}
 .call {
     font-size: 20px;
     font-weight: 750;
@@ -141,4 +145,20 @@ h2 {
 
 .c2a-button {
     display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 7px;
+    border: #f9faf8 solid 3px;
+    background-color: #3882F6;
+    color:#f9faf8;
+    padding: 2px 30px 2px 30px;
+}
+
+/*footer*/
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color:#f9faf8;
 }
